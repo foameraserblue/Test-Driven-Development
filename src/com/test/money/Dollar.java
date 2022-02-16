@@ -1,4 +1,4 @@
-package com.test.first;
+package com.test.money;
 
 public class Dollar {
     public int amount;
@@ -7,7 +7,7 @@ public class Dollar {
         this.amount = amount;
     }
 
-    public void times(int multiplier) {
-        this.amount *= multiplier;
+    public Dollar times(int multiplier) {
+        return new Dollar(amount * multiplier);
     }
 }
