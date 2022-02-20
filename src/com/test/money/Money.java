@@ -1,10 +1,10 @@
 package com.test.money;
 
-public class Money {
-    protected int amount;
-    protected String currency;
 
-    
+public class Money implements Expression {
+    private final int amount;
+    private final String currency;
+
 
     public static Money dollar(final int amount) {
         return new Money(amount, "USD");
@@ -16,18 +16,23 @@ public class Money {
     }
 
 
-
-
     public Money times(final int multiplier) {
         return new Money(amount * multiplier, currency);
     }
 
-    public Money(int amount, String currency) {
+    public Money(final int amount, final String currency) {
         this.amount = amount;
         this.currency = currency;
     }
 
 
+    public Expression plus(final Money added) {
+        return new Sum(this, added);
+    }
+
+    public Money reduce(String to) {
+        return this;
+    }
 
 
     @Override
@@ -46,5 +51,13 @@ public class Money {
                 '}';
     }
 
+
+    public int getAmount() {
+        return amount;
+    }
+
+    public String getCurrency() {
+        return currency;
+    }
 
 }
