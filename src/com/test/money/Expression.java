@@ -1,5 +1,7 @@
 package com.test.money;
 
 public interface Expression {
-    Money reduce(String to);
+    Money reduce(final Bank bank, final String to);
+
+    Expression plus(final Expression addend);
 }

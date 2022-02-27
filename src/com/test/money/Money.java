@@ -8,7 +8,6 @@ public class Money implements Expression {
 
     public static Money dollar(final int amount) {
         return new Money(amount, "USD");
-
     }
 
     public static Money franc(final int amount) {
@@ -16,7 +15,7 @@ public class Money implements Expression {
     }
 
 
-    public Money times(final int multiplier) {
+    public Expression times(final int multiplier) {
         return new Money(amount * multiplier, currency);
     }
 
@@ -25,13 +24,15 @@ public class Money implements Expression {
         this.currency = currency;
     }
 
-
-    public Expression plus(final Money added) {
+    @Override
+    public Expression plus(final Expression added) {
         return new Sum(this, added);
     }
 
-    public Money reduce(String to) {
-        return this;
+    public Money reduce(final Bank bank, final String to) {
+        int rate = bank.rate(currency, to);
+
+        return new Money(amount / rate, to);
     }
 
 
