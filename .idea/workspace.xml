@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba63a1b5-c24e-4d57-aba1-9653079ae2b8" name="Default Changelist" comment="init">
+      <change beforePath="$PROJECT_DIR$/src/com/test/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/money/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/money/Expression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/money/Money.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/money/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/money/Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/money/MoneyTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="second" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="4" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1645015012" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="3" />
+                    <option name="lastUsedInstant" value="1645014450" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="second" />
+                    <option name="lastUsedInstant" value="1645013804" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="first" />
+                    <option name="lastUsedInstant" value="1645013617" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="25BrRpVSPH94U8bKHC20o9Fgukm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/1장 Money" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.test.money" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MoneyTest">
+    <configuration name="MoneyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-driven-development" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="money" />
+      <option name="MAIN_CLASS_NAME" value="money.MoneyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoneyTest.testIdentityRate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-driven-development" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="money" />
+      <option name="MAIN_CLASS_NAME" value="money.MoneyTest" />
+      <option name="METHOD_NAME" value="testIdentityRate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoneyTest.testMixedAddition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-driven-development" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="money" />
+      <option name="MAIN_CLASS_NAME" value="money.MoneyTest" />
+      <option name="METHOD_NAME" value="testMixedAddition" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoneyTest.testReduceMoneyDifferentCurrency" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-driven-development" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="money" />
+      <option name="MAIN_CLASS_NAME" value="money.MoneyTest" />
+      <option name="METHOD_NAME" value="testReduceMoneyDifferentCurrency" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoneyTest.testReduceSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-driven-development" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="money" />
+      <option name="MAIN_CLASS_NAME" value="money.MoneyTest" />
+      <option name="METHOD_NAME" value="testReduceSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MoneyTest.testReduceSum" />
+      <item itemvalue="JUnit.MoneyTest.testReduceMoneyDifferentCurrency" />
+      <item itemvalue="JUnit.MoneyTest.testIdentityRate" />
+      <item itemvalue="JUnit.MoneyTest" />
+      <item itemvalue="JUnit.MoneyTest.testMixedAddition" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MoneyTest" />
+        <item itemvalue="JUnit.MoneyTest.testMixedAddition" />
+        <item itemvalue="JUnit.MoneyTest.testReduceMoneyDifferentCurrency" />
+        <item itemvalue="JUnit.MoneyTest.testIdentityRate" />
+        <item itemvalue="JUnit.MoneyTest.testReduceSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba63a1b5-c24e-4d57-aba1-9653079ae2b8" name="Default Changelist" comment="" />
+      <created>1645011317747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645011317747</updated>
+      <workItem from="1645011320013" duration="1179000" />
+      <workItem from="1645012527525" duration="3584000" />
+      <workItem from="1645332166778" duration="8333000" />
+      <workItem from="1645848805061" duration="329000" />
+      <workItem from="1645933496164" duration="4836000" />
+      <workItem from="1645942460182" duration="30000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1645012609074</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645012609074</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/test/money/Expression.java</url>
+          <line>3</line>
+          <properties class="com.test.money.Expression" method="reduce">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

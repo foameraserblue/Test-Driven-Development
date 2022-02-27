@@ -9,6 +9,7 @@ public class Sum implements Expression {
         this.addend = addend;
     }
 
+    @Override
     public Money reduce(final Bank bank, final String to) {
         int amount = augend.reduce(bank, to).getAmount() + addend.reduce(bank, to).getAmount();
 
@@ -16,7 +17,12 @@ public class Sum implements Expression {
     }
 
     @Override
-    public Expression plus(Expression addend) {
-        return null;
+    public Expression plus(final Expression addend) {
+        return new Sum(this, addend);
+    }
+
+    @Override
+    public Expression times(final int multiplier) {
+        return new Sum(augend.times(multiplier), addend.times(multiplier));
     }
 }
